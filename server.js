@@ -18,7 +18,7 @@ const swaggerOptions = {
     },
     servers: [
       {
-        url: "http://localhost:3000/api/v1", // Update with your server's URL
+        url: "https://apiblaguesstjo.onrender.com/api/v1", // Update with your server's URL
       },
     ],
   },
